@@ -1,7 +1,7 @@
 defmodule ShoppingList do
   use GenServer
 
-  ######Client######
+  #_______Client_______
 
   #start GenServer list
 
@@ -37,7 +37,7 @@ defmodule ShoppingList do
   end
 
 
-  ######Server######
+  #_______Server_______
 
   #Start process
 
